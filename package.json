@@ -1,12 +1,12 @@
 {
-  "name": "Your-Own-Bot",
+  "name": "The-Sonu-Xmd",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By ⎯ ꯭᪳𝐘꯭O꯭𝐔꯭𝐑꯭ 𝐒꯭𝐀꯭𝐘꯭𝐀꯭𝐍꯭꯭֟፝͡⎯꯭̽⸙ Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Your-Own-Bot",
-    "stop": "pm2 stop Your-Own-Bot",
-    "restart": "pm2 restart Your-Own-Bot"
+    "start": "pm2 start index.js --deep-monitoring --attach --name The-Sonu-Xmd",
+    "stop": "pm2 stop The-Sonu-Xmd",
+    "restart": "pm2 restart The-Sonu-Xmd"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
